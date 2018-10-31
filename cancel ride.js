@@ -40,7 +40,7 @@ function onSubmit(e) {
 }
 
 function cancelEvent(RideID){
-
+ //hello git
 }
 
 function cancelCalendarEvent(){
